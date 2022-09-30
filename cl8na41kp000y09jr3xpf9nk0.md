@@ -81,6 +81,37 @@ arr = [1,4, 5,2,9,3,6]
 print(selectionSort(arr))
 ``` 
 
+### Insertion Sort:
+
+Insertion sort is the simplest sort just like a playing cards. It It compares the each elements and moving t he element is correct position.
+
+It works well for short data's.
+
+
+![insertionsort.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1664552994729/k1kHPr86V.png align="left")
+
+Lets see the implementation of this
+
+
+```Python
+def insertionSort(arr):
+
+  for i in range(1, len(arr)):
+    j = i - 1
+    key = arr[i]
+    while j >= 0 and key < arr[j]:
+      arr[j+1] = arr[j]
+      j = j - 1
+    arr[j+1] = key
+  return arr
+
+arr = [1,4, 5,2,9,3,6]
+print(insertionSort(arr))
+``` 
+
+So far we have covered Bubble sort, Selection sort and Insertion sort in comparison category. Next one is heap sort, for this we need another data structure implementation. So we will jump into this Tree...
+
+
 
 
 
