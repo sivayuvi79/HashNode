@@ -1,1 +1,3 @@
-IyMgSGl2ZSBhcnRpY2xlIDMKCldpbGwgYmUgdXBkYXRlZCBzb29uLi4u
+# Hive article 3
+
+Will be updated soon...
