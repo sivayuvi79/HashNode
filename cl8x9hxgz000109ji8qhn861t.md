@@ -1,1 +1,81 @@
-IyMgSGl2ZSBJbnRyb2R1Y3Rpb24KCiMgV2h5IEhpdmU/CgpJbiBCaWcgRGF0YSBlY29zeXN0ZW0gd2UgaGF2ZSAzIG1haW4gY29tcG9uZW50cywKCjEuIERpc3RyaWJ1dGVkIEZpbGUgU3lzdGVtIC0gU3RvcmFnZSBMYXllcgoyLiBNYXAgUmVkdWNlIC0gUHJvY2Vzc2luZyBFbmdpbmUKMy4gWUFSTiAtIFJlc291cmNlIE1hbmFnZXIKCkJlZm9yZSBIaXZlIHdlKERhdGEgZm9sa3MpIHVzZWQgSmF2YSBhcyBhIHNjcmlwdGluZyB0b29sIHRvIGludGVyYWN0IHdpdGggdGhlc2UgY29tcG9uZW50cy4gQnV0IG1hbnkgb2YgdXMgbm90IGNvbWZvcnRhYmxlIGF0IHRoYXQgdGltZSwgdGhlbiB0aGUgRmFjZWJvb2sgY3JlYXRlZCBhIGZyYW1ld29yayBjYWxsZWQgSGl2ZSB0byBpbnRlcmFjdCB3aXRoIEJpZyBkYXRhIGVjb3N5c3RlbS4KCkhpdmUgaXMgYWx0ZXJlZCB2ZXJzaW9uIG9mIFNRTCBhbmQgSGl2ZSBpcyBhIHByb2Nlc3NpbmcgZW5naW5lLCBpdCB3aWxsIHdvcmsgb24gdG9wIG9mIE1hcCByZWR1Y2UoTm90IGEgcmVwbGFjZW1lbnQgb2YgTWFwIFJlZHVjZSkuCgoqKk5vdGU6KiogSGl2ZSBpcyBub3QgYSBEYXRhYmFzZQoKQSB0eXBpY2FsIEhpdmUgcHJvY2Vzcy4KCiFbaW1hZ2UucG5nXShodHRwczovL2Nkbi5oYXNobm9kZS5jb20vcmVzL2hhc2hub2RlL2ltYWdlL3VwbG9hZC92MTY2NTA3MTkzNTQyOS85eXRLd1dIVG0ucG5nIGFsaWduPSJsZWZ0IikKCiMjIEhpdmUgQXJjaGl0ZWN0dXJlCgpMZXRzIHRha2UgYSBsb29rIGF0IEhpdmUgYXJjaGl0ZWN0dXJlLAoKIVtpbWFnZS5wbmddKGh0dHBzOi8vY2RuLmhhc2hub2RlLmNvbS9yZXMvaGFzaG5vZGUvaW1hZ2UvdXBsb2FkL3YxNjY1MDcyMTYwNTMzL1JkdTlpaFYxZS5wbmcgYWxpZ249ImxlZnQiKQoKIyMjIEpEQkMKICBXaWxsIHNlZSB2ZXJ5IHdlbGwgZGV0YWlsIGFib3V0IEpEQkMgaW4gZnV0dXJlLCBmb3Igbm93IGp1c3QgdW5kZXJzdGFuZCBKREJDIGlzIGNvbm5lY3Rpb24gbWVkaXVtIG9mIEhpdmUuCgojIyMgQ2xpZW50cwotICoqQ0xJKiogLT4gSXQgaXMgYSBjb21tYW5kIGxpbmUgaW50ZXJmYWNlIGZvciBoaXZlLCBqdXN0IHRvIGludGVyYWN0IHdpdGggSGl2ZSBmcm9tIGNvbW1hbmQgbGluZS4gKipFeGFtcGxlOioqIEJlZWxpbmUKLSAqKlRocmlmdCoqIC0+IEl0IGNhbiBiZSB1c2VkIGluIHNjcmlwdGluZyB0byBhbGxvY2F0ZSBhIHBhcnRpY3VsYXIgc2Vzc2lvbi4gKipFeGFtcGxlOioqIFB5c3Bhcmsgc2NyaXB0cwotICoqV2ViIEludGVyZmFjZSoqIC0+IEl0IHVzZWQgZm9yIHNvbWUgYW5hbHl0aWNzIHB1cnBvc2VzLiAqKkV4YW1wbGU6KiogSHVlCgojIyMgRHJpdmVyCkRyaXZlciBpcyBhIG1haW4gY29tcG9uZW50IG9mIEhpdmUgYW5kIAotIEl0IHdpbGwgYWNjZXB0cyBpbmNvbWluZyByZXF1ZXN0LCAKLSBBY3RzIGxpa2UgYSBjb250cm9sbGVyIGZvciBIUUwgc3RhdGVtZW50cywgCi0gQ3JlYXRlcyBhIHNlc3Npb24gZm9yIHF1ZXJpZXMsIAotIE1haW50YWluIGxpZmUgY3ljbGUgb2YgcXVlcnksIAotIE1haW50YWluIG1ldGEgZGF0YSBmb3IgZXhlY3V0aW9uLCAKLSBDb2xsZWN0IHRoZSByZXN1bHRzIGZyb20gbWFwIHJlZHVjZSBhbmQgZGlzcGxheSB0aGUgcmVzdWx0cy4KCiMjIyMgU1FMIFByb2Nlc3MKLSBTUUwgc3ludGF4IGFuZCBzeW1tZXRyaWMgY2hlY2sgd2lsbCBiZSBoYXBwZW5pbmcsIAotIEV4ZWN1dGlvbiBwbGFuIHdpbGwgYmUgY3JlYXRlZAotIE9wdGltaXphdGlvbiB3aWxsIGNvbWUgaW50byBwaWN0dXJlCgojIyMjIFBhcnNpbmcgYW5kIGNvbXBpbGF0aW9uIHBhcnQKLSBTeW50YXggYW5kIFN5bW1ldHJpYyBjaGVjawotIEV4ZWN1dGlvbiBwbGFuCi0gU3RlcHMgdG8gZ2V0IHRoZSBvdXRwdXQKLSBSYWlzZSBjb21waWxlIHRpbWUgZXJyb3JzCgojIyMjIE9wdGltaXplcgotIENvbXBhcmUgZXhlY3V0aW9uIHBsYW5zCi0gQ2FsY3VsYXRlIHRoZSBjb3N0Ci0gRXhlY3V0aW9uIHBsYW4gb2YgREFHJ3MKLSBUcnkgdG8gcGxhY2Ugb3IgY29tYmluZSB0cmFuc2Zvcm1hdGlvbiB0b2dldGhlcgoKIyMjIyBFeGVjdXRvcnMKZXhlY3V0ZSB0aGUgb3B0aW1pemVkIGRhZyB3aXRoIGhlbHAgb2YgTWFwIHJlZHVjZSBhbmQgc2VuZCB0aGUgcmVzdWx0cyB0byBIREZTLgoKIyMjIyBNZXRhIGRhdGEKSGVyZSB3ZSBoYXZlIGFsbCB0aGUgcmVxdWlyZWQgbWV0YSBmb3IgSGl2ZSB0YWJsZXMuIFdlIGFyZSBub3Qgc3RvcmluZyB0aGUgZGF0YSBoZXJlIGFuZCBqdXN0IHdlIGFyZSBkb2luZyBtZXRhIGRlZmluaXRpb24gYW5kIHRoZSBhY3R1YWwgZGF0YSBzdG9yZWQgb24gSERGUy4gCgoqKkRlcmJ5IERCKioKCkhpdmUgd2lsbCBiZSB1c2luZyAqKkRlcmJ5KiogREIgZm9yIHRoZWlyIG1ldGEgZGF0YSBhcyBkZWZhdWx0LiAKV2UgY2FuJ3QgY3JlYXRlIG11bHRpcGxlIGNvbm5lY3Rpb24gYXQgYSB0aW1lIHdpdGggRGVyYnkoQ29uY3VycmVudCBub3QgcG9zc2libGUpLgpTbyB3ZSBuZWVkIGV4dGVybmFsIERCIGZvciBIaXZlIG1ldGEgZm9yIHByb2R1Y3Rpb24uCgoqKkFkdmFudGFnZXMgb2YgTXlTUUwgYW5kIFBvc3RncmVTUUwgZm9yIEhpdmU6KioKLSBNZXRhIERhdGEgQmFjayB1cAotIENvbmN1cnJlbnQgY29ubmVjdGlvbgotIFdlIGNhbiBiZSB1c2UgdGhpcyBmb3Igc29tZSBhbm90aGVyIGFuYWx5c2lzIGFuZCBhdXRvbWF0aW9uCgoKIAoKCg==
+# Hive Introduction
+
+# Why Hive?
+
+In Big Data ecosystem we have 3 main components,
+
+1. Distributed File System - Storage Layer
+2. Map Reduce - Processing Engine
+3. YARN - Resource Manager
+
+Before Hive we(Data folks) used Java as a scripting tool to interact with these components. But many of us not comfortable at that time, then the Facebook created a framework called Hive to interact with Big data ecosystem.
+
+Hive is altered version of SQL and Hive is a processing engine, it will work on top of Map reduce(Not a replacement of Map Reduce).
+
+**Note:** Hive is not a Database
+
+A typical Hive process.
+
+![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1665071935429/9ytKwWHTm.png align="left")
+
+## Hive Architecture
+
+Lets take a look at Hive architecture,
+
+![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1665072160533/Rdu9ihV1e.png align="left")
+
+### JDBC
+  Will see very well detail about JDBC in future, for now just understand JDBC is connection medium of Hive.
+
+### Clients
+- **CLI** -> It is a command line interface for hive, just to interact with Hive from command line. **Example:** Beeline
+- **Thrift** -> It can be used in scripting to allocate a particular session. **Example:** Pyspark scripts
+- **Web Interface** -> It used for some analytics purposes. **Example:** Hue
+
+### Driver
+Driver is a main component of Hive and 
+- It will accepts incoming request, 
+- Acts like a controller for HQL statements, 
+- Creates a session for queries, 
+- Maintain life cycle of query, 
+- Maintain meta data for execution, 
+- Collect the results from map reduce and display the results.
+
+#### SQL Process
+- SQL syntax and symmetric check will be happening, 
+- Execution plan will be created
+- Optimization will come into picture
+
+#### Parsing and compilation part
+- Syntax and Symmetric check
+- Execution plan
+- Steps to get the output
+- Raise compile time errors
+
+#### Optimizer
+- Compare execution plans
+- Calculate the cost
+- Execution plan of DAG's
+- Try to place or combine transformation together
+
+#### Executors
+execute the optimized dag with help of Map reduce and send the results to HDFS.
+
+#### Meta data
+Here we have all the required meta for Hive tables. We are not storing the data here and just we are doing meta definition and the actual data stored on HDFS. 
+
+**Derby DB**
+
+Hive will be using **Derby** DB for their meta data as default. 
+We can't create multiple connection at a time with Derby(Concurrent not possible).
+So we need external DB for Hive meta for production.
+
+**Advantages of MySQL and PostgreSQL for Hive:**
+- Meta Data Back up
+- Concurrent connection
+- We can be use this for some another analysis and automation
+
+
+ 
+
+
