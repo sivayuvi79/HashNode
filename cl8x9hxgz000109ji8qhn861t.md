@@ -22,7 +22,8 @@ A typical Hive process.
 
 Lets take a look at Hive architecture,
 
-![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1665072160533/Rdu9ihV1e.png align="left")
+
+![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1665500855348/yzj43O5Cn.png align="left")
 
 ### JDBC
   Will see very well detail about JDBC in future, for now just understand JDBC is connection medium of Hive.
