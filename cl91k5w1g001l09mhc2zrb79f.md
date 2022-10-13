@@ -1,3 +1,5 @@
-# Hive article 3
+# Hive Files
 
-Will be updated soon...
+Hive Files
+
+We have Row columnar file format. Example for this is our traditional RDBMS.
