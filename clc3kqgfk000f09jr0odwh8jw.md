@@ -1,4 +1,4 @@
-# Apache Spark - Class 3
+# Apache Spark - Tutorial 3
 
 Here we are going to learn Spark Memory Management
 
