@@ -1,4 +1,4 @@
-# Apache Spark - Class 1
+# Apache Spark - Tutorial 1
 
 ### First We need to understand why Spark?
 
